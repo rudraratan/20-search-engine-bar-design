@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+}
+input:focus{
+    outline: none;
+}
+.wiki{
+margin-top: 45px;
+}
+.log{
+    width: 220px;
+    margin: auto;
+}
+.search{
+    width: 458px;
+    margin: auto;
+}
+.search input{
+    width: 456px;
+    height: 20px;
+    margin: auto;
+
+}
+.search button{
+    width: 90px;
+    height: 20px; 
+    display: block;
+    margin: auto;
+}
+.redio{
+    width: 406px;
+    margin: auto;
+
+}
+.redio input{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

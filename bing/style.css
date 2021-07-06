@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+input:focus{
+    outline: none;
+}
+.header{
+    display: flex;
+    width: 1092px;
+    margin: auto;
+}
+.nav ul li{
+    display: inline-block;
+}
+.sign{
+    display: flex;
+}
+.logo img{
+    width: 200px;
+    height: ;
+    margin-top:-30px ;
+}
+.nav{
+    margin-left: 40px;
+}
+.nav ul li a{
+    display: inline-block;
+    padding: 10px 15px;
+    color: white;
+}
+.nav ul li a:last-child{
+}
+.sign{
+    margin-left: 500px;
+}
+.sign .div1{
+  margin-top: 10px;  
+}
+.sign .div2{
+    margin-top: 10px ;  
+    margin-left: 40px;
+    
+}
+.div3{
+    margin-top: 6px;
+    margin-left: 3px;
+}
+.div3 a i{
+    font-size: 15px;
+    color: rgb(7 29 43);
+    /* background: white; */
+    margin-left: 5px;
+    background: #ece5e5;
+    width: 30px;
+    height: 30px;
+    padding: 8px;
+    border-radius: 50%;
+}
+.div2 a i{
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+}
+.div1 a{
+    color: rgb(255, 255, 255);
+
+}
+body{
+    background: url(assets/image/banner.jpg_mb);
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+    height: 100vh;
+
+}
+.dot{
+    font-weight: 900;
+}
+.sec{
+    width: 1092px;
+    overflow: hidden;
+    margin: auto;
+
+}
+.search{
+    position: relative;
+
+}
+.search input{
+    margin: auto;
+    padding: 19px;
+    width: 595px;
+    display: block;
+    border-radius: 7px;
+    margin-top: 130px;
+    border: none;
+}
+.search i{
+    color: #00809D;
+}
+.threeicon{
+    position: absolute;
+    top: 5px;
+    right: 255px;
+}
+.threeicon i{
+    padding: 10px;
+    font-size: 26px;
+    font-weight: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

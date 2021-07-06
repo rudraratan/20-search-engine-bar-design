@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+}
+input:focus{
+    outline: none;
+}
+
+.alibaba{
+    padding: 20px;
+}
+.logo{
+    width: 16%;
+    float: left;
+}
+.logo img{
+    width: 135px;
+    margin-left: 65px;
+}
+.search{
+    width: 57%;
+    float: left;
+    position: relative;
+
+}
+.search input{
+    width: 84.5%;
+    height: 46px;
+    float: left;
+    font-size: 15px;
+    padding: 9px;
+    border: none;
+    margin-left: 56px;
+    background: #F5F5F5;
+    color: #9E9E9E;
+}
+
+.search button{
+    width: 6%;
+    height: 45.5px;
+    float: left;
+    padding: 7.5px;
+    font-size: 17px;
+    color: white;
+    background-color: #F57224;
+    border: 2px solid #F57224;
+}
+.search button .fas{
+    transform: translate(-1px);
+    font-weight: normal;
+}
+.search button:hover{
+    background-color: #E35300;
+    cursor: pointer;
+}
+.search #icon{
+    position: absolute;
+    top: 11px;
+    right: 162px;
+
+}
+.menu-item{
+    width: 27%;
+    float: left;
+    
+}
+.menu-item ul li{
+    display: inline-block;
+}
+.menu-item ul li a{
+    padding: 0px 10px;
+}
+#seleect{
+    padding: 7px 10px;
+    border: none;
+    border-right: 0.5px solid grey;
+    position: absolute;
+    top: 24px;
+    left: 237px;
+    border-radius: 20px 0px 0px 20px;
+}
+select:focus{
+    outline: none;
+}
+.menu-item
+.menu-item a{
+    font-weight: normal;
+    font-size: 40px;
+}
+
+#ico .fas{
+    
+        padding: 14px;
+        font-size: 22px;
+        font-weight: normal;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

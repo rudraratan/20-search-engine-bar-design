@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+}
+input:focus{
+    outline: none;
+}
+
+.alibaba{
+    padding: 20px;
+}
+.logo{
+    width: 16%;
+    float: left;
+}
+.search{
+    width: 57%;
+    float: left;
+    position: relative;
+
+}
+.search input{
+    width: 80%;
+    height: 40px;
+    float: left;
+    font-size: 15px;
+    padding: 9px;
+    border: 2px solid #FF6A00;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.search button{
+    width: 20%;
+    height: 40px;
+    float: left;
+    padding: 7.5px;
+    font-size: 17px;
+    color: white;
+    background-color: #FF6A00;
+    border: 2px solid #FF6A00;
+    border-radius: 0px 20px 20px 0px;
+}
+.search button .fas{
+    transform: translate(-10px);
+    font-weight: normal;
+}
+.search button:hover{
+    background-color: #E35300;
+    cursor: pointer;
+}
+.search #icon{
+    position: absolute;
+    top: 11px;
+    right: 162px;
+    z-index: 5;
+
+}
+.menu-item{
+    width: 27%;
+    float: left;
+    
+}
+.menu-item ul li{
+    display: inline-block;
+}
+.menu-item ul li a{
+    padding: 0px 10px;
+}
+#seleect{
+    padding: 7px 10px;
+    border: none;
+    border-right: 0.5px solid #E6E6E6;
+    position: absolute;
+    top: 24px;
+    left: 237px;
+    border-radius: 20px 0px 0px 20px;
+}
+select:focus{
+    outline: none;
+}
+
+.smallsrc{
+    width: 504px;
+    height: 35px;
+    float: left;
+    font-size: 15px;
+    padding: 6px;
+    border: none;
+    border-radius: 0px 0px 0px 0px;
+    position: absolute;
+    top: 22px;
+    right: 530px;
+}
+.join{
+    float: left;
+    width: 100px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.join i{
+    font-size: 40px;
+    font-weight: normal;
+    color: #333333;
+}
+.join .in{
+    position: absolute;
+    top: 29px;
+    right: 275px;
+}
+.join p a{
+    display: block;
+    color: #333333;
+
+}
+.mass{
+    float: left;
+    margin: 0px 12px;
+
+}
+.mass i{
+    font-size: 25px;
+    margin-left: 15px;
+    color: #333333;
+
+
+}
+.or{
+    float: left;
+    margin: 0px 12px;
+
+
+}
+.or i{
+    font-size: 25px;
+    margin-left: 10px;
+    color: #333333;
+
+
+}
+
+.car{
+    float: left;
+    margin: 0px 13px;
+
+
+}
+.car i{
+    font-size: 25px;
+    color: #333333;
+    font-weight: normal;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
